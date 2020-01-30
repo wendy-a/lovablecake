@@ -1,6 +1,8 @@
+
 .logo{
 	margin: 20px;
 	display: inline-block;
+	width: 208px;
 }
 
 a:-webkit-any-link{
@@ -23,4 +25,41 @@ a:-webkit-any-link{
 
 body{
 	background-color: #fff7ec;
+}
+
+h1{
+	color: #5E4A49;
+	font-family: Avenir;
+	font-size: 30px;
+	letter-spacing: 1px;
+	line-height: 41px;
+	text-align: justify;
+	margin-left: 100px;
+}
+
+h2{
+	float: right;
+	color: #5E4A49;
+	font-family: Avenir Next;
+	font-size: 20px;
+	letter-spacing: 0.2px;
+	line-height: 30px;
+	text-align: justify;
+}
+
+.strawberrycheese{
+	margin-left: 100px;
+	display: inline-block;
+	
+}
+
+.descrption{
+	float: right;
+	display: inline-block;
+	color: #5E4A49;
+	font-family: Avenir Next;
+	font-size: 16px;
+	letter-spacing: 1px;
+	line-height: 30px;
+	text-align: justify;
 }
