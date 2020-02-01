@@ -5,23 +5,18 @@
 	width: 208px;
 }
 
-a:-webkit-any-link{
-	color: #574241;
-	text-decoration: none;
-	padding-left: 30px;
-}
-
-.nav-right{
+a.nav-right{
+  text-decoration: none;
+	padding-left: 20 px;
+  color: #574241;
 	float:right;
 	font-size: 20px;
-	font-family: Avenir Next;
+	font-family: Avenir;
 	letter-spacing: 0.20px;
-	text-align: justify;
 	margin: 40px;
 	text-transform: uppercase;
 	display: inline-block;
 }
-
 
 body{
 	background-color: #fff7ec;
